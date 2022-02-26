@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhruboRoyPartho
-- 👀 I’m interested in Competitive Programming
+- 👀 I’m interested in Competitive Programming, Game Development and Software Development
 - 🌱 I’m currently learning C++ for Competitive Programming
 - 💞️ I’m looking to collaborate on Open Source software development
 - 📫 How to reach me ...
