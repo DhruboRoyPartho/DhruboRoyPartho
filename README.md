@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Dhrubo Roy Partho
-#### Programmer | Learner
+## Hi there 👋, My name is Dhrubo Roy Partho
+### Programmer | Learner
 Hi, I am Dhrubo Roy. I am a student of Rajshahi University. Although I have no work experience but I hope to gain experience soon.
 
 Skills: C / C++ / C# / HTML / CSS 
