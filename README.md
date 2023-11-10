@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruboroypartho&" alt="dhruboroypartho" /></p>
 
+<script src="https://tryhackme.com/badge/69664"></script>
+
