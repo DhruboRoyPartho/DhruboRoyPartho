@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruboroypartho" alt="dhruboroypartho" /></a> </p>
 
-- 🔭 I’m currently working on **Robotics**
+- 🔭 I’m currently working on **Robotics and IoT**
 
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **Robotics and IoT**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **Robotics**
+- 💬 Ask me about **Robotics and IoT**
 
 - 📫 How to reach me **dhruboroypartho@gmail.com**
 
